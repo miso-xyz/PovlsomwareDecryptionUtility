@@ -8,3 +8,6 @@ Opening the application with a file path as argument(s) will allow you to choose
 
 Opening the application without anything will just give you the password
 ![Password](https://i.imgur.com/rmXG9a1.png)
+
+# Credits
+0xd4d for dnlib :pepeD:
